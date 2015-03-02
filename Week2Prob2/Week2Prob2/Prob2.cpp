@@ -32,7 +32,6 @@ int main(){
 		 if (c == 65 || c == 69 || c == 73 || c == 79 || c == 79 ||
 			 c == 97 || c == 101|| c == 105|| c == 111|| c == 117) noVowels++;	//vowels
 
-
 		 cin.get(c);
 	}
 	//set the fill character
